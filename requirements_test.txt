@@ -1,0 +1,2 @@
+--extra-index-url https://pypi.org/simple --index-url http://localhost:8999
+test_lib==0.0.1
